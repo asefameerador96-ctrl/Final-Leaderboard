@@ -118,7 +118,7 @@ const Leaderboard = () => {
       {/* Footer */}
       <footer className="container pb-8">
         <div className="text-center text-muted-foreground text-sm">
-          © {new Date().getFullYear()} Abul Khair Tobacco Company Limited. All rights reserved.
+          © {new Date().getFullYear()} Shah Cement. All rights reserved.
         </div>
       </footer>
     </div>
